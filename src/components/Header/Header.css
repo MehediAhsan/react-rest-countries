@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    background-color: blanchedalmond;
+}
+
+.menu ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.menu a{
+    text-decoration: none;
+    color: gray;
+}
+.menu a:hover{
+    color: black;
+}
